@@ -55,4 +55,4 @@ A simple and dynamic blogging platform built with Node.js and Express. Bloggy al
 
 3. **Run**
    ```bash 
-   npm run dev```   
+   npm run dev
