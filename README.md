@@ -48,7 +48,11 @@ A simple and dynamic blogging platform built with Node.js and Express. Bloggy al
    ```bash
    git clone https://github.com/yourusername/bloggy.git
    cd bloggy
+
 2. **Installation:**
-   ``` npm install  ```
+   ```bash
+    npm install  
+
 3. **Run**
-   ```npm run dev```   
+   ```bash 
+   npm run dev```   
